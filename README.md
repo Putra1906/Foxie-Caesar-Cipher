@@ -13,10 +13,10 @@ This is a simple Caesar Cipher Encrypt/Decrypt Tool implemented in Python.
 
 # 📖 How to use
 1. Clone the repository <br/>
-   `git clone https://github.com/Putra1906/Foxie-Caesar-Cipher.git` <br/>
+   ```git clone https://github.com/Putra1906/Foxie-Caesar-Cipher.git<br/>
 
 2. Navigate to the project directory <br/>
-    `cd cd Foxie-Caesar-Cipher/Foxie-CC` <br/>
+    ```cd Foxie-Caesar-Cipher/Foxie-CC <br/>
 
 3. Usage
    `python CCTools.py`
